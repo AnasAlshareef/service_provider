@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844721673566",
+    "project_id": "kkla-ae670",
+    "storage_bucket": "kkla-ae670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844721673566:android:70ff37f2a1aca4b7a92bcf",
+        "android_client_info": {
+          "package_name": "com.example.kkkk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvFIHo5AUpp9XXYxEnz07yXXlHt3Iv1U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
